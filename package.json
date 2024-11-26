@@ -20,7 +20,7 @@
     "crypto-random-string": "^3.3.0",
     "formik": "^2.2.1",
     "graphql": "^15.4.0",
-    "moment": "^2.29.1",
+    "moment": "^2.29.4",
     "mongoose": "^5.10.11",
     "next": "^10.0.0",
     "nodemailer": "^6.4.14",
